@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447486487898",
+    "project_id": "auntymess-c4eb1",
+    "storage_bucket": "auntymess-c4eb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447486487898:android:d3ffbeb1c9887b51311763",
+        "android_client_info": {
+          "package_name": "com.example.auntymess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxYsmq6MBJ5NSSRjm-o6C6nuOgJLclzWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
